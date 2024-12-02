@@ -1,1 +1,1 @@
-# 08_Hands-on_Activity_1
+# 08_Hands-on_Activity_1_Wake_Up!
